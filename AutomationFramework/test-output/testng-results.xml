@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Database Connection Established]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on contacts link successfully]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on contact lookup image]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on save button]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-03-23T18:16:10 IST" name="Default suite" finished-at="2024-03-23T18:16:37 IST" duration-ms="26481">
+    <groups>
+    </groups>
+    <test started-at="2024-03-23T18:16:10 IST" name="Default test" finished-at="2024-03-23T18:16:37 IST" duration-ms="26481">
+      <class name="vtiger.ContactsTest.CreateContactWithOrganizationTest">
+        <test-method is-config="true" signature="beforeSuiteConfiguration()[pri:0, instance:vtiger.ContactsTest.CreateContactWithOrganizationTest@3cd3e762]" started-at="2024-03-23T18:16:10 IST" name="beforeSuiteConfiguration" finished-at="2024-03-23T18:16:10 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Database Connection Established]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteConfiguration -->
+        <test-method is-config="true" signature="beforeClassConfiguration()[pri:0, instance:vtiger.ContactsTest.CreateContactWithOrganizationTest@3cd3e762]" started-at="2024-03-23T18:16:10 IST" name="beforeClassConfiguration" finished-at="2024-03-23T18:16:14 IST" duration-ms="3371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassConfiguration -->
+        <test-method is-config="true" signature="beforeMethodConfiguration()[pri:0, instance:vtiger.ContactsTest.CreateContactWithOrganizationTest@3cd3e762]" started-at="2024-03-23T18:16:14 IST" name="beforeMethodConfiguration" finished-at="2024-03-23T18:16:18 IST" duration-ms="3838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodConfiguration -->
+        <test-method signature="createContactWithOrganization()[pri:0, instance:vtiger.ContactsTest.CreateContactWithOrganizationTest@3cd3e762]" started-at="2024-03-23T18:16:18 IST" name="createContactWithOrganization" finished-at="2024-03-23T18:16:34 IST" duration-ms="16376" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on contacts link successfully]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on contact lookup image]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on save button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createContactWithOrganization -->
+        <test-method is-config="true" signature="afterMethodConfiguration()[pri:0, instance:vtiger.ContactsTest.CreateContactWithOrganizationTest@3cd3e762]" started-at="2024-03-23T18:16:34 IST" name="afterMethodConfiguration" finished-at="2024-03-23T18:16:36 IST" duration-ms="2313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodConfiguration -->
+        <test-method is-config="true" signature="afterClassConfiguration()[pri:0, instance:vtiger.ContactsTest.CreateContactWithOrganizationTest@3cd3e762]" started-at="2024-03-23T18:16:36 IST" name="afterClassConfiguration" finished-at="2024-03-23T18:16:37 IST" duration-ms="324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassConfiguration -->
+      </class> <!-- vtiger.ContactsTest.CreateContactWithOrganizationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
